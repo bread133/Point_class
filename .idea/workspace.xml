@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="29fdacd5-66af-482f-828c-a87c604f46da" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IMoveable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IPolyPoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IShape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NGon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OpenFigure.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Point2D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Point3D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Polyline.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/QGon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Segment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TGon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Trapeze.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2FNueEMIAmmcnCei8GBaJm8jjWK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/bread/Desktop/javaLab1&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;File.Encoding&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.main">
+    <configuration name="ProgramRead" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ProgramRead" />
+      <module name="Ex1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <module name="Ex1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="16" />
+      <option name="MAIN_CLASS_NAME" value="Program" />
+      <module name="Ex1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ProgramRead" />
+        <item itemvalue="Application.Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="29fdacd5-66af-482f-828c-a87c604f46da" name="Changes" comment="" />
+      <created>1664344958203</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1664344958203</updated>
+      <workItem from="1664344960989" duration="2342000" />
+      <workItem from="1664794654728" duration="1305000" />
+      <workItem from="1664807505774" duration="1968000" />
+      <workItem from="1664883744733" duration="1848000" />
+      <workItem from="1664948192517" duration="2511000" />
+      <workItem from="1665053597357" duration="1538000" />
+      <workItem from="1665263773999" duration="19763000" />
+      <workItem from="1665382079192" duration="18539000" />
+      <workItem from="1665401547660" duration="203000" />
+      <workItem from="1665401863861" duration="9893000" />
+      <workItem from="1665424357762" duration="593000" />
+      <workItem from="1665434829677" duration="1307000" />
+      <workItem from="1665557346776" duration="367000" />
+      <workItem from="1665674664692" duration="783000" />
+      <workItem from="1665922577541" duration="1805000" />
+      <workItem from="1665924802539" duration="6568000" />
+      <workItem from="1665941686627" duration="709000" />
+      <workItem from="1665944584589" duration="5982000" />
+      <workItem from="1665982233743" duration="6294000" />
+      <workItem from="1665989424916" duration="17348000" />
+      <workItem from="1666016091088" duration="5624000" />
+      <workItem from="1666157649124" duration="4477000" />
+      <workItem from="1666162453834" duration="952000" />
+      <workItem from="1666195928887" duration="1811000" />
+      <workItem from="1666250057019" duration="7312000" />
+      <workItem from="1666356909003" duration="2567000" />
+      <workItem from="1666512706656" duration="12522000" />
+      <workItem from="1666536265544" duration="3234000" />
+      <workItem from="1666539648968" duration="9280000" />
+      <workItem from="1666595449347" duration="2517000" />
+      <workItem from="1666621983435" duration="5089000" />
+      <workItem from="1666649872828" duration="566000" />
+      <workItem from="1666650531013" duration="333000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
